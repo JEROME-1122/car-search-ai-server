@@ -1,0 +1,204 @@
+
+ [
+  {
+    "id": 1,
+    "name": "Hyundai i20",
+    "price": 1200000,
+    "fuel": "Petrol",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "id": 2,
+    "name": "Maruti Swift",
+    "price": 800000,
+    "fuel": "Petrol",
+    "mileage": 22,
+    "safety": 4
+  },
+  {
+    "id": 3,
+    "name": "Tata Nexon",
+    "price": 1400000,
+    "fuel": "Diesel",
+    "mileage": 20,
+    "safety": 5
+  },
+  {
+    "id": 4,
+    "name": "Kia Seltos",
+    "price": 1800000,
+    "fuel": "Petrol",
+    "mileage": 17,
+    "safety": 5
+  },
+  {
+    "id": 5,
+    "name": "Honda City",
+    "price": 1600000,
+    "fuel": "Petrol",
+    "mileage": 19,
+    "safety": 5
+  },
+
+  {
+    "id": 6,
+    "name": "Toyota Glanza",
+    "price": 900000,
+    "fuel": "Petrol",
+    "mileage": 21,
+    "safety": 4
+  },
+  {
+    "id": 7,
+    "name": "Mahindra XUV300",
+    "price": 1500000,
+    "fuel": "Diesel",
+    "mileage": 19,
+    "safety": 5
+  },
+  {
+    "id": 8,
+    "name": "Hyundai Creta",
+    "price": 1900000,
+    "fuel": "Diesel",
+    "mileage": 20,
+    "safety": 5
+  },
+  {
+    "id": 9,
+    "name": "Tata Punch",
+    "price": 800000,
+    "fuel": "Petrol",
+    "mileage": 23,
+    "safety": 5
+  },
+  {
+    "id": 10,
+    "name": "Renault Kwid",
+    "price": 600000,
+    "fuel": "Petrol",
+    "mileage": 25,
+    "safety": 3
+  },
+  {
+    "id": 11,
+    "name": "Honda Amaze",
+    "price": 1100000,
+    "fuel": "Petrol",
+    "mileage": 20,
+    "safety": 4
+  },
+  {
+    "id": 12,
+    "name": "Maruti Baleno",
+    "price": 950000,
+    "fuel": "Petrol",
+    "mileage": 22,
+    "safety": 4
+  },
+  {
+    "id": 13,
+    "name": "Skoda Slavia",
+    "price": 1700000,
+    "fuel": "Petrol",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "id": 14,
+    "name": "Volkswagen Virtus",
+    "price": 1750000,
+    "fuel": "Petrol",
+    "mileage": 19,
+    "safety": 5
+  },
+  {
+    "id": 15,
+    "name": "MG Astor",
+    "price": 1600000,
+    "fuel": "Petrol",
+    "mileage": 17,
+    "safety": 5
+  },
+   {
+    "id": 16,
+    "name": "Toyota Urban Cruiser Hyryder",
+    "price": 1650000,
+    "fuel": "Petrol",
+    "mileage": 27,
+    "safety": 5
+  },
+  {
+    "id": 17,
+    "name": "Maruti Brezza",
+    "price": 1200000,
+    "fuel": "Petrol",
+    "mileage": 20,
+    "safety": 4
+  },
+  {
+    "id": 18,
+    "name": "Hyundai Venue",
+    "price": 1300000,
+    "fuel": "Diesel",
+    "mileage": 22,
+    "safety": 4
+  },
+  {
+    "id": 19,
+    "name": "Tata Harrier",
+    "price": 2400000,
+    "fuel": "Diesel",
+    "mileage": 16,
+    "safety": 5
+  },
+  {
+    "id": 20,
+    "name": "Mahindra Scorpio N",
+    "price": 2300000,
+    "fuel": "Diesel",
+    "mileage": 15,
+    "safety": 5
+  },
+  {
+    "id": 21,
+    "name": "MG Hector",
+    "price": 2200000,
+    "fuel": "Petrol",
+    "mileage": 14,
+    "safety": 5
+  },
+  {
+    "id": 22,
+    "name": "Nissan Magnite",
+    "price": 750000,
+    "fuel": "Petrol",
+    "mileage": 20,
+    "safety": 4
+  },
+  {
+    "id": 23,
+    "name": "Renault Kiger",
+    "price": 800000,
+    "fuel": "Petrol",
+    "mileage": 19,
+    "safety": 4
+  },
+  {
+    "id": 24,
+    "name": "Skoda Kushaq",
+    "price": 1800000,
+    "fuel": "Petrol",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "id": 25,
+    "name": "Volkswagen Taigun",
+    "price": 1850000,
+    "fuel": "Petrol",
+    "mileage": 19,
+    "safety": 5
+  }
+]
