@@ -4,8 +4,12 @@ import cars from "./cars.json" with { type: "json" };
 const app = express();
 
 app.use(express.json());
-app.use(cors());
-
+app.use(
+  cors({
+    origin: "https://car-search-ai.netlify.app/",
+   credentials: true,
+  })
+);
 app.get("/", (req, res) => {
   res.status(200).json({ Success: "App runnning " });
 });
